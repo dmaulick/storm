@@ -13,6 +13,12 @@
 
 - https://nativebase.io/
 
+4. Cross platform inspiration:
+
+- Motion: https://github.com/nandorojo/moti
+- DS: https://github.com/nandorojo/dripsy
+- Navigation: https://github.com/nandorojo/solito
+
 Plan:
 https://iremkaraoglu.medium.com/building-design-system-in-react-native-80fa97d9fd89
 
